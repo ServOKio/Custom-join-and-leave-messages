@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CustomJoinAndLeaveMessages">
+    <output-path>$PROJECT_DIR$/../../../Minecraft/Minecraft1.12/plugins</output-path>
+    <root id="archive" name="CustomJoinAndLeaveMessages.jar">
+      <element id="module-output" name="CustomJoinAndLeaveMessages" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+join-message: "&b%name% зашёл на сервер"
+leave-message: "&e%name% вышел с сервера"
+
+no-rights: "&7К сожалению, у вас &cнет прав"
+reload-config: "&7Конфигурация &aперезагружена"
